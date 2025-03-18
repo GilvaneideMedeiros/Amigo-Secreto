@@ -11,7 +11,7 @@ Veja como funciona, no vídeo abaixo:
 
 https://github.com/user-attachments/assets/54810d2c-60fc-48e4-b958-6bf40f1cd7fd
 
-
+Acesse o app no link: https://gilvaneidemedeiros.github.io/Amigo-Secreto/
 
 Neste projeto foi utilizada a linguagem JavaScript para o seu desenvolvimento.
 
